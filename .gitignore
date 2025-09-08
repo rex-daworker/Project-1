@@ -1,0 +1,51 @@
+.vscode/
+.zsh_sessions/
+Desktop/
+Downloads/
+Documents/
+Pictures/
+Music/
+Videos/
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+*.log
+*.tmp
+.lesshst
+.Library/
+.Trash/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.swp
+*~
+*.bak
+*.orig
+*.rej
+*.class
+*.jar
+*.war
+*.ear
+Movies/
+Library
+Exception Handling/
+Application/Chrome Apps.localized
+Projects/
+Public/
+obj
+helloworld
+.zsh_history
+Exception Handling.cs
+Hello World
+minikube-darwin-amd64
+my_script.sh
+my_script.sh.save
+mydatabase.db
+mydatabse.db
+Program.cs
+rexoghenerobo.csproj
+Test a
